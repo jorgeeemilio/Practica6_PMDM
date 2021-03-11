@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="user_holder">Usuario</string>
+    <string name="passw_holder">Contraseña</string>
+    <string name="switch_text">Guardar las credenciales</string>
+    <string name="boton_acc">Acceder</string>
+    <string name="ma2_text">Bienvenido a LoginApp</string>
+    <string name="btn_clean_prefs">Borrar credenciales</string>
+</resources>
