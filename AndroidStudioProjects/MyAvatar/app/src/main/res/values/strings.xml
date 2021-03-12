@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Avatar</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="hint_nom">Nombre</string>
+
+    <string name="title_1">Nombre de mi Avatar</string>
+    <string name="title_2">Sexo de mi Avatar</string>
+    <string name="title_3">Raza de mi Avatar</string>
+    <string name="title_4">Clase de mi Avatar</string>
+
+    <string name="boton_nuevo">Crear Avatar</string>
+
+    <string name="texto_1">Vida: </string>
+    <string name="texto_2">Magia: </string>
+    <string name="texto_3">Fuerza: </string>
+    <string name="texto_4">Velocidad: </string>
+    <string name="nombre"></string>
+    <string name="todo"></string>
+    <string name="radiobutton">Hombre</string>
+    <string name="radiobutton2">Mujer</string>
+    <string name="radiobutton3">Elfo</string>
+    <string name="radiobutton4">Enano</string>
+    <string name="radiobutton5">Hobbit</string>
+    <string name="radiobutton6">Humano</string>
+    <string name="radiobutton7">Arquero</string>
+    <string name="radiobutton8">Guerrero</string>
+    <string name="radiobutton9">Mago</string>
+    <string name="radiobutton10">Herrero</string>
+
+</resources>
